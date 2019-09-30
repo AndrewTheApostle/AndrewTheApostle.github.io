@@ -14,4 +14,4 @@
 
 [lesson_13](https://andrewTheApostle.github.io/lesson13/) - Форма
 
-[Practice](https://andrewTheApostle.github.io/practice/src/)
+[Practice](https://andrewTheApostle.github.io/practice/src)
